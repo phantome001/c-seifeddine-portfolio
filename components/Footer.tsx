@@ -1,9 +1,10 @@
-import { Code2, Github, Linkedin, Mail } from "lucide-react";
+import { Code2, Github, Linkedin, Mail, Coffee } from "lucide-react";
 
 const socials = [
   { label: "GitHub", href: "https://github.com/phantome001", icon: Github },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/ghost-seif-175466264", icon: Linkedin },
-  { label: "Email", href: "mailto:chebeleddine@gmail.com", icon: Mail }
+  { label: "Email", href: "mailto:chebeleddine@gmail.com", icon: Mail },
+  { label: "Buy Me a Coffee", href: "https://www.buymeacoffee.com/cseifeddine", icon: Coffee }
 ];
 
 export default function Footer() {
