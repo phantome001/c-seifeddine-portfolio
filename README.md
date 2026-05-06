@@ -4,7 +4,7 @@
 
 **A premium, dark-themed portfolio showcasing 7+ years of expertise in Full Stack Development, Cybersecurity & AI.**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-00d4ff?style=for-the-badge)](https://github.com/phantome001)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-00d4ff?style=for-the-badge)](https://c-seifeddine-portfolio.vercel.app/)
 [![License](https://img.shields.io/badge/License-MIT-8A5CFF?style=for-the-badge)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org)
 
