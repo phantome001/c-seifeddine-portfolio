@@ -29,6 +29,14 @@ type Project = {
 
 const projects: Project[] = [
   {
+    title: "DentiDZ - Dental Booking SaaS",
+    description: "A multi-tenant platform connecting clinics and patients in Algeria. Features an Arabic RTL dashboard, a Flutter mobile app, and a secure FastAPI backend.",
+    tags: ["FastAPI", "Next.js", "Flutter", "Supabase", "Tailwind CSS"],
+    image: "https://raw.githubusercontent.com/phantome001/DentiDZ/main/docs/screenshots/web-clinic-dashboard.png",
+    github: "https://github.com/phantome001/DentiDZ.git",
+    demo: "https://denti-dz.vercel.app/login"
+  },
+  {
     title: "Educational Center Management",
     description: "A comprehensive platform to seamlessly manage educational and administrative processes with high efficiency.",
     tags: ["React", "TypeScript", "Vite", "Shadcn/UI"],
